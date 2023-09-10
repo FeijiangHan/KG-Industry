@@ -1,0 +1,122 @@
+.ambiguityReview {
+  /* background: white; */
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.aleftBox {
+  width: 300px;
+  height: 100%;
+  box-shadow: 0 2px 8px #dbdbdb;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.aleftMargin {
+  /* margin: auto; */
+  width: 260px;
+}
+.leftHead {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.search {
+  margin-bottom: 10px;
+}
+.aCenter {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+.aCenterMargin {
+  /* width: 1000px; */
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  /* background: sandybrown; */
+}
+.aMainNodeBox {
+  width: 100%;
+  height: 260px;
+  /* background: rgb(3, 128, 57); */
+  box-shadow: 0 2px 8px #dbdbdb;
+  padding: 20px;
+}
+.aMainNode {
+  /* background: seagreen; */
+  width: 100%;
+  height: 210px;
+}
+.mainNodeDetail {
+  width: 50%;
+  height: 190px;
+  /* background: saddlebrown; */
+  overflow-y: auto;
+}
+.aMainNodeMargin {
+  display: flex;
+  flex-direction: row;
+}
+.mainNodeGraph {
+  width: 50%;
+  /* background-color: aqua; */
+  margin: 0;
+  padding: 0;
+}
+.otherNodeHead {
+  width: 100%;
+  height: 60px;
+  box-shadow: 0 2px 8px #dbdbdb;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+}
+.otherNodes {
+  width: 100%;
+  /* flex: 1; */
+  box-shadow: 0 2px 8px #dbdbdb;
+  overflow-y: auto;
+  /* padding: 20px; */
+  height: 320px;
+  /* background: sienna; */
+}
+.otherNodeBox {
+  width: 100%;
+  box-shadow: 0 2px 8px #dbdbdb;
+  /* background: salmon; */
+  padding: 5px;
+}
+[data-theme='compact']
+  .site-collapse-custom-collapse
+  .site-collapse-custom-panel,
+.site-collapse-custom-collapse .site-collapse-custom-panel {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  /* background: #ffffff; */
+  border: 0px;
+  /* border-radius: 2px; */
+}
+.adetail {
+  display: flex;
+  flex-direction: row;
+  /* background: saddlebrown; */
+}
+.oDtails {
+  width: 100%;
+  height: 120px;
+  overflow-y: auto;
+  /* background: sandybrown; */
+}
+.otherNodeBoxHead {
+  display: flex;
+  flex-direction: row;
+}
+.buttonBox {
+  display: flex;
+  flex-direction: row;
+}

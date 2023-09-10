@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 64px;
+  box-sizing: border-box;
+  padding-left: 20px;
+  padding-right: 40px;
+  box-shadow: 0 2px 8px #dbdbdb;
+}
+.header .menu-setting {
+}
+.header .logo {
+  width: 170px;
+  height: 64px;
+  line-height: 64px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.header .menu {
+  flex: 1;
+  margin-left: 20px;
+  background-color: black;
+}
+.header .graphName {
+  width: 130px;
+  height: 64px;
+  line-height: 64px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #1890ff;
+}

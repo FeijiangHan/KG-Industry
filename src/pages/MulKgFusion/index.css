@@ -1,0 +1,66 @@
+.mbody {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  /* background: salmon; */
+}
+.mdatalist {
+  width: 100%;
+  padding: 0px 10px;
+  margin-bottom: 10px;
+}
+/* .data-filter-tab {
+  width: 100%;
+
+  padding: 0px 10px;
+} */
+.mbutton {
+  width: 250px;
+  margin: 10px 25px;
+}
+/* .graphTitle {
+  background: transparent;
+  z-index: 999;
+} */
+.mbox2 {
+  flex: 3;
+  height: 100%;
+  box-shadow: 0 2px 8px #dbdbdb;
+  position: relative;
+}
+.mbox3 {
+  flex: 2;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 8px #dbdbdb;
+  position: relative;
+}
+
+.zmbox {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  flex: 1;
+  box-shadow: 0 2px 8px #dbdbdb;
+}
+.tips11 {
+  overflow: hidden;
+  z-index: 9;
+  position: absolute;
+  right: 10px;
+  margin-top: 20px;
+  margin-right: 20px;
+  font-weight: bold;
+}
+.tips {
+  overflow: hidden;
+  z-index: 9;
+  position: absolute;
+  right: 10px;
+  margin-top: 20px;
+  margin-right: 20px;
+  font-weight: bold;
+}

@@ -1,0 +1,68 @@
+.Kg-setting {
+}
+.Kg-setting .Kg-setting-btn {
+  position: absolute;
+
+  top: 20px;
+  left: 20px;
+}
+
+.startEdit-btn {
+  position: absolute;
+  top: 20px;
+  right: 70px;
+}
+
+.Kg-setting .Kg-setting-card {
+  position: absolute;
+  top: 36px;
+  left: 67px;
+  width: 400px;
+  max-height: 80%;
+  box-shadow: 0 3px 6px -4px #0000001f, 0 6px 16px #00000014,
+    0 9px 28px 8px #0000000d;
+  overflow: auto;
+}
+
+.kg-setting-title {
+  font-size: 16px;
+}
+
+.kg-setting-node-color {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.kg-setting-colorBox {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.kg-setting-colorBox:hover {
+  border: 2px solid yellow;
+}
+
+.kg-setting-node-icon {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.kg-setting-node-iconBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2em;
+  cursor: pointer;
+}
+
+.kg-setting-node-iconBox:hover {
+  border: 2px solid yellow;
+}

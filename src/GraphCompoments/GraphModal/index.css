@@ -1,0 +1,6 @@
+.graphModal {
+  width: 1000px;
+}
+.ant-modal-wrap {
+  pointer-events: none;
+}

@@ -1,0 +1,15 @@
+.detail-card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  background-color: white;
+  word-break: break-word;
+}
+
+.body {
+  flex: 1;
+  padding: 10px 20px;
+  overflow: auto;
+}

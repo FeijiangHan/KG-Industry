@@ -1,0 +1,295 @@
+{
+    "nodes": [
+        {
+            "name": "Microsoft_Windows",
+            "id": "100000",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "MIUI",
+            "id": "100001",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "ICloud",
+            "id": "100002",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "Nexus_6P",
+            "id": "100003",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "C++",
+            "id": "100004",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "Ubuntu_Touch",
+            "id": "100005",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "Delphi",
+            "id": "100006",
+            "data": {
+                "property": {
+                    "xxx": "asdasdasd",
+                    "we": "qwe",
+                    "qw": "qwe"
+                }
+            }
+        },
+        {
+            "name": "Google",
+            "id": "100007",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "Adobe_AIR",
+            "id": "100008",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "OS_X",
+            "id": "100009",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "V8_(JavaScript引擎)",
+            "id": "100010",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "迅雷",
+            "id": "100011",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "Linux",
+            "id": "100012",
+            "data": {
+                "property": {
+                    "xxx": "asdasdasd",
+                    "we": "qwe",
+                    "qw": "qwe"
+                }
+            }
+        },
+        {
+            "name": "三星Galaxy_Note_Edge",
+            "id": "100013",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "Android",
+            "id": "100014",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "Lua",
+            "id": "100015",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "IOS",
+            "id": "100016",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "Google_Chrome",
+            "id": "100017",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "JavaScript",
+            "id": "100018",
+            "data": {
+                "property": null
+            }
+        },
+        {
+            "name": "Windows_XP",
+            "id": "100019",
+            "data": {
+                "property": {
+                    "ai": "测试",
+                    "xp": "罗"
+                }
+            }
+        }
+    ],
+    "links": [
+        {
+            "name": "operatingSystem",
+            "source": "100000",
+            "target": "100001",
+            "id": "200000"
+        },
+        {
+            "name": "programmedIn",
+            "source": "100000",
+            "target": "100002",
+            "id": "200001"
+        },
+        {
+            "name": "operatingSystem",
+            "source": "100000",
+            "target": "100003",
+            "id": "200002"
+        },
+        {
+            "name": "operatingSystem",
+            "source": "100000",
+            "target": "100004",
+            "id": "200003"
+        },
+        {
+            "name": "operatingSystem",
+            "source": "100000",
+            "target": "100005",
+            "id": "200004"
+        },
+        {
+            "name": "operatingSystem",
+            "source": "100000",
+            "target": "100006",
+            "id": "200005"
+        },
+        {
+            "name": "programmedIn",
+            "source": "100000",
+            "target": "100007",
+            "id": "200006"
+        },
+        {
+            "name": "marketingTarget",
+            "source": "100010",
+            "target": "100011",
+            "id": "200007"
+        },
+        {
+            "name": "operatingSystem",
+            "source": "100010",
+            "target": "100012",
+            "id": "200008"
+        },
+        {
+            "name": "developer",
+            "source": "100010",
+            "target": "100013",
+            "id": "200009"
+        },
+        {
+            "name": "programmingLanguage",
+            "source": "100010",
+            "target": "100014",
+            "id": "200010"
+        },
+        {
+            "name": "progLanguage",
+            "source": "100010",
+            "target": "100015",
+            "id": "200011"
+        },
+        {
+            "name": "influencedBy",
+            "source": "100010",
+            "target": "100016",
+            "id": "200012"
+        },
+        {
+            "name": "programmingLanguage",
+            "source": "100011",
+            "target": "100007",
+            "id": "200013"
+        },
+        {
+            "name": "programmedIn",
+            "source": "100012",
+            "target": "100006",
+            "id": "200014"
+        },
+        {
+            "name": "programmedIn",
+            "source": "100006",
+            "target": "100012",
+            "id": "800014"
+        },
+        {
+            "name": "programmedIn",
+            "source": "100013",
+            "target": "100005",
+            "id": "200015"
+        },
+        {
+            "name": "developer",
+            "source": "100000",
+            "target": "100008",
+            "id": "200016"
+        },
+        {
+            "name": "developer",
+            "source": "100008",
+            "target": "100010",
+            "id": "200017"
+        },
+        {
+            "name": "developer",
+            "source": "100009",
+            "target": "100004",
+            "id": "200018"
+        },
+        {
+            "name": "operatingSystem",
+            "source": "100018",
+            "target": "100000",
+            "id": "200019"
+        },
+        {
+            "name": "operatingSystem",
+            "source": "100019",
+            "target": "100000",
+            "id": "200020"
+        },
+        {
+            "name": "tentect",
+            "source": "100017",
+            "target": "100000",
+            "id": "200021"
+        }
+    ]
+}

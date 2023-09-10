@@ -1,0 +1,2975 @@
+{
+  "nodes": [
+    {
+      "name": "5.180.97.54",
+      "type": "IP",
+      "expand": [
+        0
+      ],
+      "degree": 0.24590163934426232,
+      "currentflow": 0.46734430446858527,
+      "kshell": 2,
+      "bigCore": 1,
+      "importantCore": 1,
+      "middleCore": 1,
+      "core": 1,
+      "bucket": 0,
+      "bridge": 0,
+      "importantBridge": 0,
+      "influentialCore": 0,
+      "id": "5.180.97.54",
+      "short_path": 0.3557377049180328,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.20333333333333334,
+      "gravity": 450.0,
+      "clusterrank": 15.0,
+      "k-shell": 2,
+      "eigenvector": 0.1871900958527652
+    },
+    {
+      "name": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "type": "Cert_SHA256",
+      "expand": [
+        1
+      ],
+      "degree": 0.7540983606557378,
+      "currentflow": 0.8887815472855269,
+      "kshell": 2,
+      "bigCore": 1,
+      "importantCore": 1,
+      "middleCore": 1,
+      "core": 1,
+      "bucket": 1,
+      "bridge": 0,
+      "importantBridge": 1,
+      "influentialCore": 1,
+      "id": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "short_path": 0.8542544886807183,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.24206349206349206,
+      "gravity": 2622.0,
+      "clusterrank": 46.0,
+      "k-shell": 2,
+      "eigenvector": 0.6811845647365943
+    },
+    {
+      "name": "164.155.177.189",
+      "type": "IP",
+      "expand": [
+        0,
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 0,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "164.155.177.189",
+      "short_path": 0.0,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        2
+      ],
+      "gn": [
+        2
+      ],
+      "closeness": 0.1783625730994152,
+      "gravity": 3.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.018674214140537423
+    },
+    {
+      "name": "AS55933",
+      "type": "ASN",
+      "expand": [
+        0
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 0,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "AS55933",
+      "short_path": 0.0,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.01196078431372549,
+      "gravity": 15.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.00033950401507931726
+    },
+    {
+      "name": "1155719eac3d2567d2d00602b93994d81401e8c26215c09e5cb74ef228bcd206",
+      "type": "Cert_SHA256",
+      "expand": [
+        2
+      ],
+      "degree": 0.1639344262295082,
+      "currentflow": 0.2589157795169326,
+      "kshell": 2,
+      "bigCore": 0,
+      "importantCore": 1,
+      "middleCore": 1,
+      "core": 1,
+      "bucket": 4,
+      "bridge": 0,
+      "importantBridge": 1,
+      "influentialCore": 0,
+      "id": "1155719eac3d2567d2d00602b93994d81401e8c26215c09e5cb74ef228bcd206",
+      "short_path": 0.1932864949258392,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        1
+      ],
+      "closeness": 0.15968586387434555,
+      "gravity": 180.0,
+      "clusterrank": 10.0,
+      "k-shell": 2,
+      "eigenvector": 0.02434825299490642
+    },
+    {
+      "name": "172.255.124.232",
+      "type": "IP",
+      "expand": [
+        2
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 3.8706136049773214e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "172.255.124.232",
+      "short_path": 0.0,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        4
+      ],
+      "gn": [
+        1
+      ],
+      "closeness": 0.122,
+      "gravity": 2.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.0005236040513506848
+    },
+    {
+      "name": "154.219.216.176",
+      "type": "IP",
+      "expand": [
+        2
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 3.4556449990518535e-16,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "154.219.216.176",
+      "short_path": 0.0,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        3
+      ],
+      "gn": [
+        1
+      ],
+      "closeness": 0.122,
+      "gravity": 2.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.0005236040513506848
+    },
+    {
+      "name": "7fc8c5263f0826b13eed1639957cef03f65964464e5b666b3eb3505696bbc73e",
+      "type": "Cert_SHA256",
+      "expand": [
+        1,
+        2
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.0024737771190678393,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          1,
+          4
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 0,
+      "id": "7fc8c5263f0826b13eed1639957cef03f65964464e5b666b3eb3505696bbc73e",
+      "short_path": 0.0,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        1
+      ],
+      "closeness": 0.013819664703217037,
+      "gravity": 112.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.0025592296782461408
+    },
+    {
+      "name": "mainzszrhy.com",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.542043817880986e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "mainzszrhy.com",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "www.mainzszrhy.com",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "www.mainzszrhy.com",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$6652258.com$www.6652258.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        1
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.04667883673432494,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          1
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$6652258.com$www.6652258.com$2",
+      "short_path": 0.0315291872668922,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.2147887323943662,
+      "gravity": 122.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.12599670191744133
+    },
+    {
+      "name": "simplify$cntradeca-lnsy.com$www.cntradeca-lnsy.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        2
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.052461125068531934,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          4
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$cntradeca-lnsy.com$www.cntradeca-lnsy.com$2",
+      "short_path": 0.03756440281030448,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        1
+      ],
+      "closeness": 0.17732558139534885,
+      "gravity": 50.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.03069312762509508
+    },
+    {
+      "name": "simplify$jinyuanguolu.com$www.jinyuanguolu.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        1
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.04667883673432494,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          1
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$jinyuanguolu.com$www.jinyuanguolu.com$2",
+      "short_path": 0.0315291872668922,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.2147887323943662,
+      "gravity": 122.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.12599670191744133
+    },
+    {
+      "name": "simplify$www-toutiao.com$www.www-toutiao.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        2
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.05246112506853181,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          4
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$www-toutiao.com$www.www-toutiao.com$2",
+      "short_path": 0.03756440281030448,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        1
+      ],
+      "closeness": 0.17732558139534885,
+      "gravity": 50.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.03069312762509508
+    },
+    {
+      "name": "simplify$dlzhanpengcaiban.com$www.dlzhanpengcaiban.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        2
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.05246112506853192,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          4
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$dlzhanpengcaiban.com$www.dlzhanpengcaiban.com$2",
+      "short_path": 0.03756440281030448,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        1
+      ],
+      "closeness": 0.17732558139534885,
+      "gravity": 50.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.03069312762509508
+    },
+    {
+      "name": "simplify$nksgh.com$www.nksgh.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        2
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.05246112506853187,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          4
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$nksgh.com$www.nksgh.com$2",
+      "short_path": 0.03756440281030448,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        1
+      ],
+      "closeness": 0.17732558139534885,
+      "gravity": 50.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.03069312762509508
+    },
+    {
+      "name": "simplify$leivein.com$www.leivein.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        2
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.05246112506853197,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          4
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$leivein.com$www.leivein.com$2",
+      "short_path": 0.03756440281030448,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        1
+      ],
+      "closeness": 0.17732558139534885,
+      "gravity": 50.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.03069312762509508
+    },
+    {
+      "name": "simplify$haoxiezi123.com$www.haoxiezi123.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        1
+      ],
+      "degree": 0.04918032786885246,
+      "currentflow": 0.07792443110958487,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          1
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$haoxiezi123.com$www.haoxiezi123.com$2",
+      "short_path": 0.06431607251279373,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        2
+      ],
+      "gn": [
+        2
+      ],
+      "closeness": 0.21631205673758866,
+      "gravity": 186.0,
+      "clusterrank": 3.0,
+      "k-shell": 2,
+      "eigenvector": 0.12870623444918386
+    },
+    {
+      "name": "simplify$sheih-tai.com$www.sheih-tai.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.542043817880986e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$sheih-tai.com$www.sheih-tai.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$foshanheyi.com$www.foshanheyi.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        1
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.04667883673432494,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          1
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$foshanheyi.com$www.foshanheyi.com$2",
+      "short_path": 0.0315291872668922,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.2147887323943662,
+      "gravity": 122.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.12599670191744133
+    },
+    {
+      "name": "simplify$shwcff.com$www.shwcff.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.542043817880986e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$shwcff.com$www.shwcff.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$lzxpc.com$www.lzxpc.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.153769098886395e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$lzxpc.com$www.lzxpc.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$yonggangjiaju.com$www.yonggangjiaju.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 9.027387216624224e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$yonggangjiaju.com$www.yonggangjiaju.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$yzshdsg.com$www.yzshdsg.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$yzshdsg.com$www.yzshdsg.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$bolarzonix.com$www.bolarzonix.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 9.027387216624224e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$bolarzonix.com$www.bolarzonix.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$pengkoutea.com$www.pengkoutea.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$pengkoutea.com$www.pengkoutea.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$liveinyq.com$www.liveinyq.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 9.318593255870166e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$liveinyq.com$www.liveinyq.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$kuyod.com$www.kuyod.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$kuyod.com$www.kuyod.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$whjmdq.com$www.whjmdq.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.542043817880986e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$whjmdq.com$www.whjmdq.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$renaihk.com$www.renaihk.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 9.027387216624224e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$renaihk.com$www.renaihk.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$tchtyx.com$www.tchtyx.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.153769098886395e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$tchtyx.com$www.tchtyx.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$3-zxmss.com$www.3-zxmss.com$2",
+      "type": "Domain",
+      "expand": [
+        2
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.03278688524590185,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$3-zxmss.com$www.3-zxmss.com$2",
+      "short_path": 0.03278688524590164,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        3
+      ],
+      "gn": [
+        1
+      ],
+      "closeness": 0.13863636363636364,
+      "gravity": 22.0,
+      "clusterrank": 2.0,
+      "k-shell": 1,
+      "eigenvector": 0.003608778676549138
+    },
+    {
+      "name": "simplify$sqswdq.com$www.sqswdq.com$2",
+      "type": "Domain",
+      "expand": [
+        2
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 4.659296627935083e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$sqswdq.com$www.sqswdq.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        1
+      ],
+      "closeness": 0.13800904977375567,
+      "gravity": 10.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.0035328064187496963
+    },
+    {
+      "name": "simplify$gywuage.com$www.gywuage.com$2",
+      "type": "Domain",
+      "expand": [
+        2
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.0327868852459017,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$gywuage.com$www.gywuage.com$2",
+      "short_path": 0.03278688524590164,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        4
+      ],
+      "gn": [
+        1
+      ],
+      "closeness": 0.13863636363636364,
+      "gravity": 22.0,
+      "clusterrank": 2.0,
+      "k-shell": 1,
+      "eigenvector": 0.003608778676549138
+    },
+    {
+      "name": "simplify$szkuyaju.com$www.szkuyaju.com$2",
+      "type": "Domain",
+      "expand": [
+        2
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 3.0576634120823985e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$szkuyaju.com$www.szkuyaju.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        1
+      ],
+      "closeness": 0.13800904977375567,
+      "gravity": 10.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.0035328064187496963
+    },
+    {
+      "name": "simplify$pjxhbaby.com$www.pjxhbaby.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 9.027387216624224e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$pjxhbaby.com$www.pjxhbaby.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$fanbosong.com$www.fanbosong.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        1
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.04667883673432494,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          1
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$fanbosong.com$www.fanbosong.com$2",
+      "short_path": 0.0315291872668922,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.2147887323943662,
+      "gravity": 122.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.12599670191744133
+    },
+    {
+      "name": "simplify$xweipuxin.com$www.xweipuxin.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$xweipuxin.com$www.xweipuxin.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$qdaimeier.com$www.qdaimeier.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.542043817880986e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$qdaimeier.com$www.qdaimeier.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$szsikin.com$www.szsikin.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$szsikin.com$www.szsikin.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$rsjcsb.com$www.rsjcsb.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.542043817880986e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$rsjcsb.com$www.rsjcsb.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$pjsyssy.com$www.pjsyssy.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 9.415661935618814e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$pjsyssy.com$www.pjsyssy.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$gyqhpiano.com$www.gyqhpiano.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$gyqhpiano.com$www.gyqhpiano.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$ekroten.com$www.ekroten.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        1
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.04667883673432494,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          1
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$ekroten.com$www.ekroten.com$2",
+      "short_path": 0.0315291872668922,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.2147887323943662,
+      "gravity": 122.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.12599670191744133
+    },
+    {
+      "name": "simplify$zbapples.com$www.zbapples.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.542043817880986e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$zbapples.com$www.zbapples.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$sd58tuan.com$www.sd58tuan.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$sd58tuan.com$www.sd58tuan.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$jsgypfb.com$www.jsgypfb.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$jsgypfb.com$www.jsgypfb.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$hongdabeef.com$www.hongdabeef.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 9.027387216624224e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$hongdabeef.com$www.hongdabeef.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$fuwutea.com$www.fuwutea.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$fuwutea.com$www.fuwutea.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$sddhjssy.com$www.sddhjssy.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.542043817880986e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$sddhjssy.com$www.sddhjssy.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$lpaxc.com$www.lpaxc.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 9.027387216624224e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$lpaxc.com$www.lpaxc.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$sxldtex.com$www.sxldtex.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$sxldtex.com$www.sxldtex.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$honglibearing.com$www.honglibearing.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        1
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.046678836734324956,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          1
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$honglibearing.com$www.honglibearing.com$2",
+      "short_path": 0.0315291872668922,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.2147887323943662,
+      "gravity": 122.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.12599670191744133
+    },
+    {
+      "name": "simplify$yyjml.com$www.yyjml.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 9.027387216624224e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$yyjml.com$www.yyjml.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$hooopad.com$www.hooopad.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 7.765494379891805e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$hooopad.com$www.hooopad.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$lanxin08.com$www.lanxin08.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$lanxin08.com$www.lanxin08.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$whanjiahe.com$www.whanjiahe.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$whanjiahe.com$www.whanjiahe.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$cnyhsd.com$www.cnyhsd.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        1
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.046678836734324915,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          1
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$cnyhsd.com$www.cnyhsd.com$2",
+      "short_path": 0.0315291872668922,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.2147887323943662,
+      "gravity": 122.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.12599670191744133
+    },
+    {
+      "name": "simplify$nfcultrue.com$www.nfcultrue.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$nfcultrue.com$www.nfcultrue.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$apruitai.com$www.apruitai.com$2",
+      "type": "Domain",
+      "expand": [
+        0,
+        1
+      ],
+      "degree": 0.03278688524590164,
+      "currentflow": 0.04667883673432494,
+      "kshell": 2,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 1,
+      "bridgeOne": [
+        [
+          0,
+          1
+        ]
+      ],
+      "bridgeTwo": [],
+      "bridgeThree": [],
+      "importantBridge": 1,
+      "id": "simplify$apruitai.com$www.apruitai.com$2",
+      "short_path": 0.0315291872668922,
+      "lfm": [
+        0,
+        1
+      ],
+      "cnm": [
+        1
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.2147887323943662,
+      "gravity": 122.0,
+      "clusterrank": 2.0,
+      "k-shell": 2,
+      "eigenvector": 0.12599670191744133
+    },
+    {
+      "name": "simplify$xlsddgg.com$www.xlsddgg.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.542043817880986e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$xlsddgg.com$www.xlsddgg.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    },
+    {
+      "name": "simplify$szhs001.com$www.szhs001.com$2",
+      "type": "Domain",
+      "expand": [
+        1
+      ],
+      "degree": 0.01639344262295082,
+      "currentflow": 8.930318536875576e-17,
+      "kshell": 1,
+      "core": 0,
+      "bigCore": 0,
+      "importantCore": 0,
+      "middleCore": 0,
+      "influentialCore": 0,
+      "bucket": -1,
+      "bridge": 0,
+      "importantBridge": 0,
+      "id": "simplify$szhs001.com$www.szhs001.com$2",
+      "short_path": 0.0,
+      "lfm": [
+        1
+      ],
+      "cnm": [
+        0
+      ],
+      "gn": [
+        0
+      ],
+      "closeness": 0.1955128205128205,
+      "gravity": 46.0,
+      "clusterrank": 1,
+      "k-shell": 1,
+      "eigenvector": 0.09883638071109592
+    }
+  ],
+  "links": [
+    {
+      "name": "r_asn",
+      "edge_current": 0.016666666666666666,
+      "weight": 1,
+      "cost": 80,
+      "source": "5.180.97.54",
+      "target": "AS55933",
+      "important": 0
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.031323088184792285,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$6652258.com$www.6652258.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.03569934209337211,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$cntradeca-lnsy.com$www.cntradeca-lnsy.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.031323088184792285,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$jinyuanguolu.com$www.jinyuanguolu.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.035699342093372166,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$www-toutiao.com$www.www-toutiao.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.03569934209337213,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$dlzhanpengcaiban.com$www.dlzhanpengcaiban.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.03569934209337213,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$nksgh.com$www.nksgh.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.035699342093372104,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$leivein.com$www.leivein.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.03826288852338525,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$haoxiezi123.com$www.haoxiezi123.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.03132308818479229,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$foshanheyi.com$www.foshanheyi.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.031323088184792285,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$fanbosong.com$www.fanbosong.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.031323088184792285,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$ekroten.com$www.ekroten.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.031323088184792285,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$honglibearing.com$www.honglibearing.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.03132308818479229,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$cnyhsd.com$www.cnyhsd.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.031323088184792285,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$apruitai.com$www.apruitai.com$2",
+      "target": "5.180.97.54",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.01666666666666676,
+      "weight": 80,
+      "cost": 1,
+      "source": "mainzszrhy.com",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.01666666666666676,
+      "weight": 80,
+      "cost": 1,
+      "source": "www.mainzszrhy.com",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_certchain",
+      "edge_current": 0.009607349636404175,
+      "weight": 2,
+      "cost": 70,
+      "source": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "target": "7fc8c5263f0826b13eed1639957cef03f65964464e5b666b3eb3505696bbc73e",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.03202241521619939,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$6652258.com$www.6652258.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.03202241521619939,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$jinyuanguolu.com$www.jinyuanguolu.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.03966154258619967,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$haoxiezi123.com$www.haoxiezi123.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$sheih-tai.com$www.sheih-tai.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.03202241521619938,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$foshanheyi.com$www.foshanheyi.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$shwcff.com$www.shwcff.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$lzxpc.com$www.lzxpc.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666764,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$yonggangjiaju.com$www.yonggangjiaju.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$yzshdsg.com$www.yzshdsg.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666767,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$bolarzonix.com$www.bolarzonix.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$pengkoutea.com$www.pengkoutea.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.01666666666666676,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$liveinyq.com$www.liveinyq.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.01666666666666676,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$kuyod.com$www.kuyod.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$whjmdq.com$www.whjmdq.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666764,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$renaihk.com$www.renaihk.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$tchtyx.com$www.tchtyx.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666767,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$pjxhbaby.com$www.pjxhbaby.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.03202241521619939,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$fanbosong.com$www.fanbosong.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "target": "simplify$xweipuxin.com$www.xweipuxin.com$2",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$qdaimeier.com$www.qdaimeier.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.01666666666666676,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$szsikin.com$www.szsikin.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.01666666666666676,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$rsjcsb.com$www.rsjcsb.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666767,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$pjsyssy.com$www.pjsyssy.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$gyqhpiano.com$www.gyqhpiano.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.03202241521619938,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$ekroten.com$www.ekroten.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$zbapples.com$www.zbapples.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.01666666666666676,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$sd58tuan.com$www.sd58tuan.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$jsgypfb.com$www.jsgypfb.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666764,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$hongdabeef.com$www.hongdabeef.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.01666666666666676,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$fuwutea.com$www.fuwutea.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.01666666666666676,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$sddhjssy.com$www.sddhjssy.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666764,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$lpaxc.com$www.lpaxc.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.01666666666666676,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$sxldtex.com$www.sxldtex.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.03202241521619939,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$honglibearing.com$www.honglibearing.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666767,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$yyjml.com$www.yyjml.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$hooopad.com$www.hooopad.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$lanxin08.com$www.lanxin08.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$whanjiahe.com$www.whanjiahe.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.03202241521619938,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$cnyhsd.com$www.cnyhsd.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.01666666666666676,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$nfcultrue.com$www.nfcultrue.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.03202241521619938,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$apruitai.com$www.apruitai.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666757,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$xlsddgg.com$www.xlsddgg.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.01666666666666676,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$szhs001.com$www.szhs001.com$2",
+      "target": "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c",
+      "important": 0
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.016666666666666666,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$haoxiezi123.com$www.haoxiezi123.com$2",
+      "target": "164.155.177.189",
+      "important": 0
+    },
+    {
+      "name": "r_certchain",
+      "edge_current": 0.009533094149330349,
+      "weight": 2,
+      "cost": 70,
+      "source": "1155719eac3d2567d2d00602b93994d81401e8c26215c09e5cb74ef228bcd206",
+      "target": "7fc8c5263f0826b13eed1639957cef03f65964464e5b666b3eb3505696bbc73e",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.03342844964182649,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$cntradeca-lnsy.com$www.cntradeca-lnsy.com$2",
+      "target": "1155719eac3d2567d2d00602b93994d81401e8c26215c09e5cb74ef228bcd206",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.03342844964182644,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$www-toutiao.com$www.www-toutiao.com$2",
+      "target": "1155719eac3d2567d2d00602b93994d81401e8c26215c09e5cb74ef228bcd206",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.0334284496418265,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$dlzhanpengcaiban.com$www.dlzhanpengcaiban.com$2",
+      "target": "1155719eac3d2567d2d00602b93994d81401e8c26215c09e5cb74ef228bcd206",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.03342844964182647,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$nksgh.com$www.nksgh.com$2",
+      "target": "1155719eac3d2567d2d00602b93994d81401e8c26215c09e5cb74ef228bcd206",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.033428449641826535,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$leivein.com$www.leivein.com$2",
+      "target": "1155719eac3d2567d2d00602b93994d81401e8c26215c09e5cb74ef228bcd206",
+      "important": 1
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.032786885245901766,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$3-zxmss.com$www.3-zxmss.com$2",
+      "target": "1155719eac3d2567d2d00602b93994d81401e8c26215c09e5cb74ef228bcd206",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.016666666666666698,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$sqswdq.com$www.sqswdq.com$2",
+      "target": "1155719eac3d2567d2d00602b93994d81401e8c26215c09e5cb74ef228bcd206",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.032786885245901676,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$gywuage.com$www.gywuage.com$2",
+      "target": "1155719eac3d2567d2d00602b93994d81401e8c26215c09e5cb74ef228bcd206",
+      "important": 0
+    },
+    {
+      "name": "r_cert",
+      "edge_current": 0.01666666666666669,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$szkuyaju.com$www.szkuyaju.com$2",
+      "target": "1155719eac3d2567d2d00602b93994d81401e8c26215c09e5cb74ef228bcd206",
+      "important": 0
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.0166666666666667,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$gywuage.com$www.gywuage.com$2",
+      "target": "172.255.124.232",
+      "important": 0
+    },
+    {
+      "name": "r_dns_a",
+      "edge_current": 0.016666666666666864,
+      "weight": 80,
+      "cost": 1,
+      "source": "simplify$3-zxmss.com$www.3-zxmss.com$2",
+      "target": "154.219.216.176",
+      "important": 0
+    }
+  ],
+  "bucket2nodes": {
+    "0": [
+      "5.180.97.54"
+    ],
+    "1": [
+      "2a8cd6062e0ae1cbf435766d6ea0e4c269047ccc074c29a7499aa92790929d2c"
+    ],
+    "4": [
+      "1155719eac3d2567d2d00602b93994d81401e8c26215c09e5cb74ef228bcd206"
+    ]
+  },
+  "community": {
+    "expand": [
+      0,
+      1,
+      2
+    ],
+    "lfm": [
+      0,
+      1
+    ],
+    "cnm": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "gn": [
+      0,
+      1,
+      2
+    ]
+  }
+}

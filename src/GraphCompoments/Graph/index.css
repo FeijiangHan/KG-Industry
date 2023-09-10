@@ -1,0 +1,42 @@
+.Graph {
+  position: relative;
+  overflow: hidden;
+}
+.graph-base-info {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  bottom: 20px;
+  right: 50px;
+}
+.line-edit {
+  background-color: #e8e8e8;
+  box-shadow: 0 2px 8px #e8e8e8;
+}
+.out-edit {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 20px;
+}
+.noVis {
+  display: none !important;
+}
+.noEvent {
+  pointer-events: none;
+}
+.ant-spin-nested-loading {
+  width: 100% !important;
+  height: 100% !important;
+}
+.ant-spin-container {
+  width: 100% !important;
+  height: 100% !important;
+}
+.ant-spin-nested-loading > div:nth-child(1) {
+  width: 100% !important;
+  height: 100% !important;
+}
+.ant-spin-nested-loading > div > .ant-spin {
+  max-height: 100% !important;
+}

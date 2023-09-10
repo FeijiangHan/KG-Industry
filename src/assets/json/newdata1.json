@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "name": "Microsoft_Windows",
+      "id": "100000",
+      "data": {
+        "property": null
+      }
+    },
+    {
+      "name": "MIUI",
+      "id": "100001",
+      "data": {
+        "property": null
+      }
+    },
+    {
+      "name": "ICloud",
+      "id": "100002",
+      "data": {
+        "property": null
+      }
+    },
+    {
+      "name": "Nexus_6P",
+      "id": "100003",
+      "data": {
+        "property": null
+      }
+    }
+  ],
+  "links": [
+    {
+      "name": "operatingSystem",
+      "source": "100000",
+      "target": "100001",
+      "id": "200000"
+    },
+    {
+      "name": "programmedIn",
+      "source": "100000",
+      "target": "100002",
+      "id": "200001"
+    },
+    {
+      "name": "operatingSystem",
+      "source": "100000",
+      "target": "100003",
+      "id": "200002"
+    }
+  ]
+}

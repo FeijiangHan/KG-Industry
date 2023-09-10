@@ -1,0 +1,18 @@
+{
+  "nodes": [
+    {
+      "name": "",
+      "id": "",
+      "data": {
+      }
+    }
+  ],
+  "links": [
+    {
+      "id": "边id?",
+      "source": "节点id",
+      "target": "节点id",
+      "name": "边名称?"
+    }
+  ]
+}
