@@ -10,6 +10,21 @@
 # Project Slide
 https://docs.google.com/presentation/d/1Ly1lVQ6ODWY5S8KWnKBZgQPzJcoTU5jD/edit?usp=sharing&ouid=106857639894919772271&rtpof=true&sd=true
 
+![image-20231214113226390](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113226390.png)
+
+![image-20231214113305035](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113305035.png)
+
+![image-20231214113327549](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113327549.png)
+
+![image-20231214113346381](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113346381.png)
+
+![image-20231214113403269](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113403269.png)
+
+![image-20231214113423235](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113423235.png)
+
+![image-20231214113509246](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113509246.png)
+
+
 # Project Demonstration Video
 [![R&D of Knowledge Graph-based Panoramic Information System for Manufacturing Industry Chain](https://res.cloudinary.com/marcomontalbano/image/upload/v1702521019/video_to_markdown/images/youtube--QwpewXEg8cU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/QwpewXEg8cU?si=PBRqzoN080jglttq "R&D of Knowledge Graph-based Panoramic Information System for Manufacturing Industry Chain")
 
@@ -25,22 +40,4 @@ https://docs.google.com/document/d/1M0aMbdvtI6pt99D__n23reT2q5phpuOw/edit?usp=sh
 
 ## Data Visual Review System - Online Installation Instructions Documentation
 https://docs.google.com/document/d/1M911DUjukk8YipQu8V4P0mmaWQkP01Md/edit?usp=sharing&ouid=106857639894919772271&rtpof=true&sd=true
-
-![image-20231214113127287](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113127287.png)
-
-![image-20231214113226390](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113226390.png)
-
-![image-20231214113305035](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113305035.png)
-
-![image-20231214113327549](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113327549.png)
-
-![image-20231214113346381](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113346381.png)
-
-![image-20231214113403269](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113403269.png)
-
-![image-20231214113423235](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113423235.png)
-
-![image-20231214113441347](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113441347.png)
-
-![image-20231214113509246](https://gitee.com/han-feijiang/img-store/raw/master/2023/image-20231214113509246.png)
 
